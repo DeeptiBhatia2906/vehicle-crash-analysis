@@ -20,3 +20,4 @@ It is noticeable from the graphs that, of all the female drivers reported, most 
 * Males were also more likely to end up in a crash due to unsafe driving speeds than females.
 * Males and Females report almost equal levels of crashes due to distractions, keeping it at a leading cause of crash over these 3 years.
 
+![alt text](https://github.com/DeeptiBhatia2906/vehicle-crash-analysis/blob/master/males_vs_females_contributing_factors.png)
